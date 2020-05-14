@@ -1,0 +1,4 @@
+In this project we automated the detection of
+the number of cars parked in a parking space by using a Deep Learning approach through a 
+pre-trained VGG16-net in combination with three fully connected
+layers and we achieved an accuracy of 97% on overall.
